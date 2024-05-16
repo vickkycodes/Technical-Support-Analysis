@@ -9,7 +9,7 @@
 Feel free to interact with the dashboard [HERE](https://app.powerbi.com/view?r=eyJrIjoiOWQ2ZDY1OTktYTc2MC00ZmZkLWJhYzktNWJiNjk4MzkyNTVmIiwidCI6ImE2MzA5ODMxLTIxMGUtNDllNS04ZmY2LTI5ZGMwMDQxMjU5MCJ9)
 
 ## DATA TRANSFORMATION
-### With the use of datediff and time functions i was able to create new columns representing the time difference between ticket creation time, response time and resolution time also i created a new column representing the hour of ticket creation in order to get the peak creation times in the day. 
+#### With the use of datediff and time functions i was able to create new columns representing the time difference between ticket creation time, response time and resolution time also i created a new column representing the hour of ticket creation in order to get the peak creation times in the day. 
 ## KEY INSIGHTS
 
 ### General Metrics
