@@ -30,14 +30,14 @@ Feel free to interact with the dashboard [HERE](https://app.powerbi.com/view?r=e
    * SLA Violated: 12.16%
    * SLA Violated in Minutes: Average of 81 minutes
    * Within SLA in Minutes: Average of 17 minutes
-#### High compliance with SLAs for the first response time, but there is still room for improvement.
+   * #### High compliance with SLAs for the first response time, but there is still room for improvement.
 
 2. Resolution Time:
    * Within SLA: 80.79%
    * SLA Violated: 19.21%
    * SLA Violated in Hours: Average of 90 hours
    * Within SLA in Hours: Average of 19 hours
-### Slightly lower adherence to resolution SLAs compared to first response SLAs.
+#### Slightly lower adherence to resolution SLAs compared to first response SLAs.
 
 3. Agent Performance:
    * Specific agents (e.g., Sheela Cutten, Bernard Beckley) show variation in SLA adherence, with Sheela Cutten having the highest within SLA for resolution.
@@ -46,7 +46,7 @@ Feel free to interact with the dashboard [HERE](https://app.powerbi.com/view?r=e
 1. Product Group:
     * Ready to use Software: Highest ticket volume (756)
     * Custom software development: 463 tickets
-### This Indicates that most support tickets are related to ready-to-use software.
+#### This Indicates that most support tickets are related to ready-to-use software.
 
 2. Ticket Topics:
     * Pricing and Licensing: Highest volume (379), with a high average resolution time (35.83 hours)
